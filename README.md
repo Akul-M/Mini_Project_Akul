@@ -1,1 +1,1 @@
-# Mini_Project_Akul
+Mini project based on Olympics Statics of 120 Years
